@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" modified="2021-01-12T06:00:06.121Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="m3PV_UMYrqRC53pYXUB3" version="14.1.8" type="github">
+  <diagram id="KIXscCr2WUS_kpBk6kjo" name="Page-1">
+    <mxGraphModel dx="2037" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--2" value="&lt;h1&gt;Docker Host + CICD&lt;/h1&gt;&lt;h1 style=&quot;text-align: center&quot;&gt;Start Free&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="140" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--3" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--4" value="Sign In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--6" value="&lt;h1&gt;Sign Up&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--9" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="172.5" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--10" value="Verification Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="240" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--12" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="205" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--13" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="140" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--14" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="290" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="40" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--16" value="&lt;h1&gt;Sign In&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="80" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--17" value="password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="172.5" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--20" value="email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="140" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--21" value="Sign In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="290" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--28" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Projects&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_add_to_photos_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="180" y="543" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--32" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="72" y="570" as="sourcePoint" />
+            <mxPoint x="460" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--35" value="&lt;font style=&quot;font-size: 23px&quot;&gt;New Project&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--37" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--38" value="Github Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--39" value="Dockerfile Path" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--40" value="port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--41" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="790" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--42" value="cancel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--43" value="create" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050.5" y="510" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--45" value="&lt;span style=&quot;font-size: 23px&quot;&gt;Project Details&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080.5" y="540" width="189.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--46" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095.5" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--47" value="Github Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095.5" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--48" value="Dockerfile Path" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095.5" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--49" value="port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095.5" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--50" value="environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095.5" y="790" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--51" value="update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--52" value="delete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1303" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--53" value="status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095.5" y="840" width="124.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdk3lBt0qtwj7YtJTTH--54" value="stop/start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
