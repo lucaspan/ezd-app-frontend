@@ -5,7 +5,7 @@ import userReducer from "../reducers/userReducer";
 
 const initialState = {
   todoList: [],
-  user: null
+  user: {}
 };
 
 export const Store = createContext(initialState);

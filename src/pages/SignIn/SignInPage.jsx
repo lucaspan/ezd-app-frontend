@@ -1,13 +1,10 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
 import { Form, Button } from "react-bootstrap";
-import Amplify, { Auth } from "aws-amplify";
-import awsConfig from "../../config/awsAmplify";
+import { Auth } from "aws-amplify";
 import { Formik } from "formik";
 
 import "./SignInPage.scss";
-
-Amplify.configure(awsConfig);
 
 const SignInPage = () => {
   const history = useHistory();
