@@ -24,7 +24,7 @@ const SignInPage = () => {
         }}
       >
         {({ handleSubmit, handleChange, values }) => (
-          <Form onSubmit={handleSubmit}>
+          <Form onSubmit={handleSubmit} className="signInForm">
             <Form.Group size="lg" controlId="email">
               <Form.Label>Email</Form.Label>
               <Form.Control
