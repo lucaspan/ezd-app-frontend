@@ -12,7 +12,8 @@ const App = () => {
     <BrowserRouter>
       <Switch>
         <Route path="/signin" exact component={SignInPage} />
-        <ProtectedRoute path="/" exact component={HomePage} />
+        <Route path="/" exact component={HomePage} />
+        <ProtectedRoute path="/containers" exact component={HomePage} />
         <ProtectedRoute path="/todo" exact component={TodoContainer} />
         <Redirect to="/" />
       </Switch>
