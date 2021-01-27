@@ -5,15 +5,7 @@ import containersReducer from "../reducers/containersReducer";
 
 const initialState = {
   todoList: [],
-  containers: [
-    { name: "1" },
-    { name: "2" },
-    { name: "3" },
-    { name: "4" },
-    { name: "5" },
-    { name: "6" },
-    { name: "7" }
-  ]
+  containers: []
 };
 
 export const Store = createContext(initialState);

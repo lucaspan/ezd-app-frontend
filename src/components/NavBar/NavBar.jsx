@@ -1,14 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { Navbar, Nav, Button } from "react-bootstrap";
-import { useHistory } from "react-router-dom";
 import { Auth } from "aws-amplify";
 
 import "./NavBar.scss";
 
 const NavBar = () => {
   const [username, setUsername] = useState(null);
-
-  const history = useHistory();
 
   useEffect(async () => {
     try {

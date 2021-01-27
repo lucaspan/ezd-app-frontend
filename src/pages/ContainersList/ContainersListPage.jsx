@@ -1,15 +1,21 @@
-import React, { useContext } from "react";
-import { Row, Col, Card } from "react-bootstrap";
-import { Store } from "../../store/Store";
+import React, { useState, useEffect } from "react";
+import { Row, Col } from "react-bootstrap";
 import NavBar from "../../components/NavBar/NavBar";
 import ContainerCard from "../../components/ContainerCard/ContainerCard";
+
+import { getMyContainers } from "../../apis/container";
 
 import "./ContainersListPage.scss";
 
 const ContainersListPage = () => {
-  const { state, dispatch } = useContext(Store);
+  const [containers, setContainers] = useState([]);
 
-  var containerCards = state.containers.map((container) => {
+  useEffect(async () => {
+    const myContainers = await getMyContainers();
+    setContainers(myContainers);
+  }, []);
+
+  const containerCards = containers.map((container) => {
     return (
       <Col
         key={container.name}
@@ -17,7 +23,6 @@ const ContainersListPage = () => {
         sm={6}
         md={4}
         lg={3}
-        xl={2}
         style={{ paddingTop: "10px" }}
       >
         <ContainerCard container={container} />

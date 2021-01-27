@@ -4,3 +4,10 @@ export const addContainer = (container, dispatch) => {
     container: container
   });
 };
+
+export const loadMyContainers = (containers, dispatch) => {
+  dispatch({
+    type: "LOAD_MY_CONTAINERS",
+    containers: containers
+  });
+};
