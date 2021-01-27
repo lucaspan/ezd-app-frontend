@@ -18,7 +18,7 @@ const ContainersListPage = () => {
   const containerCards = containers.map((container) => {
     return (
       <Col
-        key={container.name}
+        key={`container-${container.id}`}
         xs={12}
         sm={6}
         md={4}
