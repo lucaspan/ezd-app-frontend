@@ -1,11 +1,19 @@
 import React, { createContext, useReducer } from "react";
 
 import todoReducer from "../reducers/todoReducer";
-import userReducer from "../reducers/userReducer";
+import containersReducer from "../reducers/containersReducer";
 
 const initialState = {
   todoList: [],
-  user: {}
+  containers: [
+    { name: "1" },
+    { name: "2" },
+    { name: "3" },
+    { name: "4" },
+    { name: "5" },
+    { name: "6" },
+    { name: "7" }
+  ]
 };
 
 export const Store = createContext(initialState);
@@ -22,7 +30,7 @@ const combineReducers = (reducers) => {
 
 const reducers = combineReducers({
   todoList: todoReducer,
-  user: userReducer
+  containers: containersReducer
 });
 
 export const StoreProvider = ({ children }) => {
